@@ -2,7 +2,4 @@
 # HWID=null если не привязан
 # СТАТУС: active/expired/used
 
-ABCDE-12345-FGHIJ-67890|2024-12-31|null|active
-FGHIJ-67890-KLMNO-12345|2024-06-30|WD-WX1234567890|active
-KLMNO-12345-PQRST-67890|2023-12-31|WD-WXY987654321|expired
 TEST|2026-01-16|null|active
