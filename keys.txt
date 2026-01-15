@@ -1,5 +1,5 @@
 # Формат: КЛЮЧ|СРОК_ДЕЙСТВИЯ|HWID|СТАТУС
-# HWID=null если не привязан
+# HWID=null если не привязан да
 # СТАТУС: active/expired/used
 
 TEST|2026-01-16|null|active
